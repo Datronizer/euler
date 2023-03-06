@@ -1,4 +1,4 @@
-# euler
+# Project Euler (Rust)
 This repository serves as a collection of solutions for Project Euler. 
 
 I made this with the intention of storing my solved solutions where I used Project Euler as practice for my coding.
